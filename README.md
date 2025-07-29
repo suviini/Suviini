@@ -4,16 +4,16 @@
 I am an Information Systems Engineering undergraduate with a strong interest in development and quality assurance. I am continually expanding my knowledge in software development life cycles, test automation, API testing, and full-stack development.I have a strong desire to learn and adapt to new technologies and methodologies. I am focused on strengthening my skills through practical projects and exploring different areas of software.
 
 ---
-:gear:Tech Stack
-
+:gear: **Tech Stack**
+---
 - Languages: C, C++ JavaScript, Python, Java, HTML/CSS, PHP
 - Frontend: React, Tailwind CSS, Bootstrap
 - Backend: Node.js (Express), Flask
 - Databases: MongoDB, MySQL
 - Tools: Git, GitHub, Postman, Figma, Selenium
----
-📊 GitHub Stats
 
+📊 **GitHub Stats**
+---
 ![Stats](https://github-readme-stats.vercel.app/api?username=suviini&show_icons=true&title_color=FFFFFF&icon_color=000000&text_color=FFFFFF&bg_color=000000)
 
 
